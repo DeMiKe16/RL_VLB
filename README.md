@@ -11,9 +11,8 @@ La organización de los ficheros de este repositorio es la siguiente:
 src: Contiene los ficheros py. En este ejemplo estara vacío.
 data: Contiene los datos de entrenamiento y prueba. En este ejemplo estara vacío.
 tests: Contiene los tests. En este ejemplo estara vacío.
-main.ipynb: Fichero de Jupyter Notebook que te lleva a Google Colab. Además incluye una linea para descargar el repositorio.
 notebook1.ipynb: Fichero de Jupyter Notebook que contiene una breve introducción del problema y enlace a los estudios.
-etc.ipynb: Ficheros de Jupyter Notebook que contienen los estudios de los diferentes problemas
+etc.ipynb: Ficheros de Jupyter Notebook que contienen los estudios de los diferentes problemas. Todos tienen enlaces directos a colab e importan todo lo necesario para su ejecucion, asi como la instalacion de librerias necesarias.
 Videos: Directorios en los que se encuentran los videos de evaluacion para cada entorno y para agente implementado que intenta resolver el problema.
 ## Instalación y Uso
 Abrir cada fichero en colab con el enlace que se incluye. En cada notebook se incluira una celda para importar el repositorio, instalar librerias que no esten en Colab e importar librerias.
